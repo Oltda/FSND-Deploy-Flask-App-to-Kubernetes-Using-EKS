@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:stephen" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="164f80a3-78e8-4209-b1c9-6d5dabf670ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/aws-auth-patch.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/iam-role-policy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/trust.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aws-auth-patch.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildspec.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci-cd-codepipeline.cfn.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Create_Pipeline/buildspec.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Create_Pipeline/buildspec.yml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Create_Pipeline/simple-pipeline-build.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Deploy_Flask_App/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Deploy_Flask_App/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Deploy_Flask_App/deployment.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/hello/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_jwt_api.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sNfe65qWtBIYpmD3qIJXcRVFuE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\Documents\web_dev\FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS\app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="164f80a3-78e8-4209-b1c9-6d5dabf670ac" name="Default Changelist" comment="" />
+      <created>1620718059390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620718059390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620721632201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="446" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1620721632201" />
+  </component>
+</project>
