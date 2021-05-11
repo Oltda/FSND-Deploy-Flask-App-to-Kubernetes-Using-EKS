@@ -9,7 +9,7 @@ Parameters:
   EksClusterName:
     Type: String
     Description: The name of the EKS cluster created
-    Default: simple-jwt-api
+    Default: projekt
     MinLength: 1
     MaxLength: 100
     ConstraintDescription: You must enter the EKS cluster name
@@ -28,7 +28,7 @@ Parameters:
     Description: GitHub git repository branch - change triggers a new build
     MinLength: 1
     MaxLength: 100
-    ConstraintDescription: You must enter a GitHub repository branch name
+    ConstraintDescription: Oltda/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS
 
   GitHubToken:
     Type: String
@@ -56,7 +56,7 @@ Parameters:
 
   KubectlRoleName:
     Type: String
-    Default: UdacityFlaskDeployCBKubectlRole
+    Default: projektRole
     Description: IAM role used by kubectl to interact with EKS cluster
     MinLength: 3
     MaxLength: 100
