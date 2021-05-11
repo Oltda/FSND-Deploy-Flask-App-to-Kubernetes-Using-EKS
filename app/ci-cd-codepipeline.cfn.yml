@@ -8,11 +8,11 @@ Parameters:
 
   EksClusterName:
     Type: String
-    Description: projekt
+    Description: The name of the EKS cluster created
     Default: simple-jwt-api
     MinLength: 1
     MaxLength: 100
-    ConstraintDescription: projekt
+    ConstraintDescription: You must enter the EKS cluster name
 
   GitSourceRepo:
     Type: String
@@ -87,19 +87,19 @@ Metadata:
           - EksClusterName
     ParameterLabels:
       GitHubUser:
-        default: Username
+        default: Oltda
       GitHubToken:
-        default: Access token
+        default: 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
       GitSourceRepo:
-        default: Repository
+        default: https://github.com/udacity/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS.git
       GitBranch:
-        default: Branch
+        default: https://github.com/Oltda/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS.git
       CodeBuildDockerImage:
         default: Docker image
       KubectlRoleName:
-        default: kubectl IAM role
+        default: projektRole
       EksClusterName:
-        default: EKS cluster name
+        default: projekt
 
 
 Resources:
