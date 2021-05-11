@@ -17,14 +17,14 @@ Parameters:
   GitSourceRepo:
     Type: String
     Description: GitHub source repository - must contain a Dockerfile and buildspec.yml in the base
-    Default: https://github.com/Oltda/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS.git
+    Default: FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS
     MinLength: 1
     MaxLength: 100
     ConstraintDescription: You must enter a GitHub repository name
 
   GitBranch:
     Type: String
-    Default: https://github.com/Oltda/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS.git
+    Default: FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS
     Description: GitHub git repository branch - change triggers a new build
     MinLength: 1
     MaxLength: 100
@@ -91,9 +91,9 @@ Metadata:
       GitHubToken:
         default: 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
       GitSourceRepo:
-        default: https://github.com/Oltda/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS.git
+        default: FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS
       GitBranch:
-        default: https://github.com/Oltda/FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS.git
+        default: FSND-Deploy-Flask-App-to-Kubernetes-Using-EKS
       CodeBuildDockerImage:
         default: Docker image
       KubectlRoleName:
