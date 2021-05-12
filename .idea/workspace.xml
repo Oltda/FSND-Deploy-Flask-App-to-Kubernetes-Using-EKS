@@ -27,7 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="164f80a3-78e8-4209-b1c9-6d5dabf670ac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd-codepipeline.cfn.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd-codepipeline.cfn.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aws-auth-patch.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aws-auth-patch.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620739563852</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="tenth commit">
+      <created>1620739684884</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620739684884</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +146,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
@@ -150,16 +158,17 @@
     <MESSAGE value="seveth commit" />
     <MESSAGE value="eight commit" />
     <MESSAGE value="nine commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="nine commit" />
+    <MESSAGE value="tenth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="tenth commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620721632201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="446" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1620721632201" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1620739577469">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1620739695475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620739577469" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1620739695475" />
   </component>
 </project>
