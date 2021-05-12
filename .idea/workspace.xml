@@ -26,7 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="164f80a3-78e8-4209-b1c9-6d5dabf670ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buildspec.yml" beforeDir="false" afterPath="$PROJECT_DIR$/buildspec.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620796613098</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="new cluster pip3">
+      <created>1620797359984</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1620797359984</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,7 +236,8 @@
     <MESSAGE value="updated build specs 3" />
     <MESSAGE value="updated build specs 4" />
     <MESSAGE value="new cluster" />
-    <option name="LAST_COMMIT_MESSAGE" value="new cluster" />
+    <MESSAGE value="new cluster pip3" />
+    <option name="LAST_COMMIT_MESSAGE" value="new cluster pip3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620721632201">
